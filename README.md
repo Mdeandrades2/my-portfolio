@@ -6,3 +6,5 @@ O projeto foi feito com base em meus estudos pela Alura Cursos online e pesquisa
 
 ## Desenvolvimento: 
 Foi ultilizado TSX e Material UI 
+React e TypeScript para porduzir toda a tela inicial 
+O banco usado foi o json. 
