@@ -4,5 +4,5 @@ Desenvolvimento de um portfolio apenas para praticas de estudos em React e TypeS
 
 O projeto foi feito com base em meus estudos pela Alura Cursos online e pesquisas on-line
 
-##Desenvolvimento: 
+## Desenvolvimento: 
 Foi ultilizado TSX e Material UI 
